@@ -1,0 +1,47 @@
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\Zaman Etüdü Programı V1.0.exe.config
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Interop.WMPLib.dll
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman Etüdü Programı V1.0.csproj.ResolveComReference.cache
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\Zaman Etüdü Programı V1.0.exe
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\Zaman Etüdü Programı V1.0.pdb
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\Interop.WMPLib.dll
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form1.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form10.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form11.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form12.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form2.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form3.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form4.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form5.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form6.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form7.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form8.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form9.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Properties.Resources.resources
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman Etüdü Programı V1.0.csproj.GenerateResource.Cache
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman Etüdü Programı V1.0.exe
+C:\Users\Selahattin\Desktop\Selahattin's Folder\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman Etüdü Programı V1.0.pdb
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\Zaman Etüdü Programı V1.0.exe.config
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Interop.WMPLib.dll
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman Etüdü Programı V1.0.csproj.ResolveComReference.cache
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman Etüdü Programı V1.0.exe
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman Etüdü Programı V1.0.pdb
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\Zaman Etüdü Programı V1.0.exe
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\Zaman Etüdü Programı V1.0.pdb
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\Interop.WMPLib.dll
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form1.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form10.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form11.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form2.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form3.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form4.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form5.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form6.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form7.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form8.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Form9.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman_Etüdü_Programı_V1._0.Properties.Resources.resources
+C:\Users\Selahattin\Desktop\Bitirme Projesi\BİTİRME HAZIRLIK\Zaman Etüdü Programı V1.0\Zaman Etüdü Programı V1.0\obj\Release\Zaman Etüdü Programı V1.0.csproj.GenerateResource.Cache
